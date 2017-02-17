@@ -21,6 +21,8 @@
     fontSize: 15
     invisibles: {}
     showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
     softWrapAtPreferredLineLength: true
   "go-plus":
     panelDisplayMode: "closed"
