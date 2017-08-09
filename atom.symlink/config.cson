@@ -1,4 +1,6 @@
 "*":
+  "copy-as-rtf":
+    style: "native"
   core:
     disabledPackages: [
       "background-tips"
@@ -18,8 +20,9 @@
     telemetryConsent: "no"
   editor:
     fontFamily: "Menlo"
-    fontSize: 15
+    fontSize: 13
     invisibles: {}
+    preferredLineLength: 120
     showIndentGuide: true
     showInvisibles: true
     softWrap: true
